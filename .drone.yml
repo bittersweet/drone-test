@@ -4,3 +4,4 @@ script:
   - ruby -e "puts 'first'"
   - ruby -e "puts 'test'"
   - ruby -e "puts 'third'"
+  - ruby -e "puts '4'"
