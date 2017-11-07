@@ -3,3 +3,4 @@ script:
   - bundle install
   - ruby -e "puts 'first'"
   - ruby -e "puts 'test'"
+  - ruby -e "puts 'third'"
