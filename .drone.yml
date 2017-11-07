@@ -5,3 +5,4 @@ script:
   - ruby -e "puts 'test'"
   - ruby -e "puts 'third'"
   - ruby -e "puts '4'"
+  - ruby -e "puts '5'"
