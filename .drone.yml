@@ -1,6 +1,6 @@
 pipeline:
   build:
-    image: ruby2.4.2
+    image: ruby@2.4.2
     commands:
       - bundle install
       - ruby -e "puts 'first'"
