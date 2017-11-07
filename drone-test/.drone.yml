@@ -1,0 +1,4 @@
+image: ruby2.4.2
+script:
+  - bundle install
+  - ruby -e "puts 'test'"
